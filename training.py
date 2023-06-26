@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jul  3 20:12:56 2022
+
+@author: MIR TAQI MIR
+"""
 import numpy as np
 import cv2
 from sklearn.preprocessing import LabelEncoder
